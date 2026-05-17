@@ -3,7 +3,7 @@ from yt_dlp import YoutubeDL
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "8718076950:AAEJp3HQDMUsmGmGjnihxwKxFQKiALD54ZE"
+BOT_TOKEN = "8006684924:AAHcV_JXh6CIS7KdTtM0GYYEhpgvdlas2k8"
 
 
 async def download_video(update: Update, context: ContextTypes.DEFAULT_TYPE):
